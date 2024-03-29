@@ -6,7 +6,7 @@ body {
 
 header {
     /* border-bottom: solid 0.1px honeydew; */
-    padding-bottom: 20px;
+    padding-bottom: 40px;
 }
 
 header::after {
@@ -79,5 +79,5 @@ button p {
 .collage {
     width: 35%;
     float: right;
-    margin-top: -100px;
+    margin-top: -300px;
 }
