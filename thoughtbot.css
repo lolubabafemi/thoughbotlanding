@@ -55,10 +55,15 @@ button  {
     border: none;
 }
 
+nav a:hover {
+    border: solid 0.1px honeydew;
+    border-spacing: 2px;
+}
 button p {
     font-size: 1.1rem;
 }
 
+button
 .title {
     width: 80%;
     margin: 100px auto 60px;
@@ -80,5 +85,5 @@ button p {
 .collage {
     width: 45%;
     float: right;
-    margin-top: -380px;
+    margin-top: -400px;
 }
