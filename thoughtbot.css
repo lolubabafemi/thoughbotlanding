@@ -4,9 +4,9 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-/* header {
-    display: inline-block;
-} */
+header {
+    border-bottom: solid 2px honeydew;
+}
 .logo {
     padding-left: 30px;
     margin-top: 20px;
@@ -32,7 +32,7 @@ nav li {
 }
 
 button  {
-    margin-top: -50px;
+    margin-top: -35px;
     margin-right: 30px;
     color:white;
     background-color: #e03131;
