@@ -3,9 +3,9 @@ body {
     color: white;
 }
 
-header {
+/* header {
     display: inline-block;
-}
+} */
 .logo {
     padding-left: 30px;
     margin-top: 20px;
@@ -17,7 +17,7 @@ header {
 }
 
 nav {
-    margin-top: -20px;
+    margin-top: -70px;
 }
 nav ul {
     list-style: none;
