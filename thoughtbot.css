@@ -6,10 +6,18 @@ body {
 
 header {
     border-bottom: solid 0.1px honeydew;
-    border-bottom-width: 40px;
     padding-bottom: 20px;
 
+header::after {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 50%;
+        border-bottom: solid 0.1px honeydew;
 }
+
 .logo {
     padding-left: 30px;
     margin-top: 20px;
