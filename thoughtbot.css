@@ -1,3 +1,26 @@
 body {
     background-color: #29292c;
+    color: white;
+}
+
+.navigation {
+    text-align: center;
+    padding: -10px;
+    margin: 5px 0 0;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0 10px;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+}
+
+nav a {
+    font-weight: 700;
+    padding: 15px 10px;
+
 }
