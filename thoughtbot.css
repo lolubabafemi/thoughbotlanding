@@ -44,10 +44,10 @@ nav li {
     margin: 0 10px;
 }
 
-nav a:hover {
+/* nav a:hover {
     border: solid 4px honeydew;
     border-spacing: 2px;
-}
+} */
 
 
 button  {
@@ -59,6 +59,11 @@ button  {
     padding: 10px 25px;
     float: right;
     border: none;
+}
+
+button:hover  {
+    border: solid 4px honeydew;
+    border-spacing: 2px;
 }
 
 
