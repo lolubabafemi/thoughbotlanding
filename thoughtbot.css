@@ -63,6 +63,9 @@ button p {
     margin: 100px auto 60px;
 }
 
+.intro {
+    width: 40%;
+}
 .intro h1 {
     font-size: 3rem;
     text-align: left;
