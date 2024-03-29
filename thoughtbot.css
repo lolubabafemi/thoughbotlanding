@@ -65,6 +65,7 @@ button p {
 }
 
 .title h1 {
+    margin-top: 60px;
     font-size: 3rem;
     text-align: left;
 }
