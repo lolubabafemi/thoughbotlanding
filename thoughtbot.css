@@ -62,8 +62,7 @@ button  {
 }
 
 button:hover  {
-    border: solid 4px honeydew;
-    border-spacing: 2px;
+    border: solid 2px honeydew;
 }
 
 
