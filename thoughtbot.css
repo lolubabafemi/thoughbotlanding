@@ -63,3 +63,8 @@ button p {
     margin-left: 30px;
     margin-top: 60px;
 }
+
+.title h1 {
+    font-size: 20px;
+    text-align: left;
+}
