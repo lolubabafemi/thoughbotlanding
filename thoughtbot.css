@@ -60,11 +60,15 @@ button p {
 
 .title {
     width: 40%;
-    margin-left: 30px;
+    margin-left: 50px;
     margin-top: 120px;
 }
 
 .title h1 {
     font-size: 3rem;
+    text-align: left;
+}
+
+.title p {
     text-align: left;
 }
