@@ -3,12 +3,19 @@ body {
     color: white;
 }
 
+.logo {
+    padding-left: 30px;
+    margin-top: 20px;
+}
 .navigation {
     text-align: center;
     padding: 10px;
     margin: 5px 0 0;
 }
 
+nav {
+    margin-top: -20px;
+}
 nav ul {
     list-style: none;
     margin: 0 10px;
@@ -21,8 +28,3 @@ nav li {
 
 }
 
-nav a {
-    font-weight: 700;
-    padding: 15px 10px;
-
-}
