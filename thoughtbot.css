@@ -5,7 +5,10 @@ body {
 }
 
 header {
-    border-bottom: solid 2px honeydew;
+    border-bottom: solid 0.5px honeydew;
+    border-width: 30%;
+    padding-bottom: 20px;
+
 }
 .logo {
     padding-left: 30px;
