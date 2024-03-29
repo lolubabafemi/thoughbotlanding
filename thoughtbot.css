@@ -5,14 +5,14 @@ body {
 }
 
 header {
-    border-bottom: solid 0.1px honeydew;
+    /* border-bottom: solid 0.1px honeydew; */
     padding-bottom: 20px;
 }
 
 header::after {
         content: '';
         position: absolute;
-        bottom: -70;
+        bottom: -40;
         left: 50%;
         transform: translateX(-50%);
         width: 50%;
