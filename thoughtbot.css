@@ -10,7 +10,7 @@ header {
 }
 
 header::after {
-        margin-top: 50px;
+        margin: 30px auto;
         content: '';
         position: absolute;
         bottom: -20;
@@ -65,7 +65,7 @@ button p {
 }
 
 .intro {
-    width: 55%;
+    width: 50%;
 }
 .intro h1 {
     font-size: 3rem;
@@ -78,7 +78,7 @@ button p {
 }
 
 .collage {
-    width: 40%;
+    width: 45%;
     float: right;
     margin-top: -300px;
 }
