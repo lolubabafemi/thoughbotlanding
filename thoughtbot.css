@@ -59,17 +59,16 @@ button p {
 }
 
 .title {
-    width: 40%;
-    margin-left: 50px;
-    margin-top: 120px;
+    width: 80%;
+    margin: 100px auto 60px;
 }
 
-.title h1 {
+.intro h1 {
     font-size: 3rem;
     text-align: left;
 }
 
-.title p {
+.intro p {
     text-align: left;
     line-height: 2;
 }
