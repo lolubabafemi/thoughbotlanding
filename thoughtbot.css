@@ -49,8 +49,12 @@ button  {
     color:white;
     background-color: #e03131;
     border-radius: 20px;
-    padding: 15px 30px;
+    padding: 10px 25px;
     float: right;
     border: none;
+}
+
+button p {
+    font-size: 1.1rem;
 }
 
