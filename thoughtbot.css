@@ -3,6 +3,9 @@ body {
     color: white;
 }
 
+header {
+    display: inline-block;
+}
 .logo {
     padding-left: 30px;
     margin-top: 20px;
