@@ -90,6 +90,8 @@ button p {
 }
 
 #talk {
+    text-align: left;
+    font-size: 1rem;
     margin-top: 50px;
     color:white;
     background-color: #e03131;
