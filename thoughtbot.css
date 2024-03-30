@@ -89,6 +89,15 @@ button p {
     line-height: 2;
 }
 
+#talk {
+    margin-top: 50px;
+    color:white;
+    background-color: #e03131;
+    border-radius: 20px;
+    padding: 10px 25px;
+    border: none;
+}
+
 .collage {
     width: 45%;
     float: right;
